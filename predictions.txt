@@ -1,7 +1,7 @@
 Answer	
-1	81
-2	83
-3	--
-4	--
-5	60.1
-6	79.1
+1	81	daffy1234
+2	83	jan milosh
+3	--	joe friedrich
+4	--	james prior
+5	60.1	andy sommerville
+6	79.1	andrew kubera
